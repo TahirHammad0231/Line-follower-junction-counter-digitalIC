@@ -26,14 +26,21 @@ digital circuits at the gate level.
 ## Files
 | File | Description |
 |------|-------------|
-| `simulation/line_follower.pdsprj` | Proteus simulation file |
-| `schematics/schematic.pdf` | Full circuit schematic |
-| `report/DLD_Project_Report.pdf` | Semester project report |
-| `Demo.mp4` | Demo Video of Bot |
+| `Simulation_Files.zip` | Proteus simulation files |
+| `Project_Schematic.png` | Full circuit schematic |
+| `DLD_Project_Report.pdf` | Semester project report |
+| `Demo.mp4` | Demo video of robot |
+
 ## Tools Used
 - Proteus Design Suite (simulation & schematic)
 - Discrete digital ICs (hardware implementation)
 
+## Demo
+[Watch the robot in action](Demo.mp4)
+
+## Circuit Schematic
+![Schematic](Project_Schematic.png)
+
 ## Context
 Semester project for Digital Logic Design (DLD) course  
-BE Mechatronics Engineering — NUST, 2026 Line-follower-junction-counter-digitalIC
+BE Mechatronics Engineering — NUST, 2026

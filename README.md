@@ -36,4 +36,4 @@ digital circuits at the gate level.
 
 ## Context
 Semester project for Digital Logic Design (DLD) course  
-BE Mechatronics Engineering — NUST, 2024# Line-follower-junction-counter-digitalIC
+BE Mechatronics Engineering — NUST, 2026 Line-follower-junction-counter-digitalIC

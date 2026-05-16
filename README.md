@@ -29,7 +29,7 @@ digital circuits at the gate level.
 | `simulation/line_follower.pdsprj` | Proteus simulation file |
 | `schematics/schematic.pdf` | Full circuit schematic |
 | `report/DLD_Project_Report.pdf` | Semester project report |
-| `Demo.MP4` | Demo Video of Bot |
+| `Demo.mp4` | Demo Video of Bot |
 ## Tools Used
 - Proteus Design Suite (simulation & schematic)
 - Discrete digital ICs (hardware implementation)
